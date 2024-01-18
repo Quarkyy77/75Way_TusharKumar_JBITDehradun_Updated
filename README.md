@@ -1,0 +1,1 @@
+Nodemailer configuration is pending..
